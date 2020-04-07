@@ -1,5 +1,5 @@
 .product-image {
-	width: 400px;
+	width: 180px;
 
 	@media (max-width: 480px) {
 		width: 100%;
@@ -28,4 +28,13 @@
 	@media (max-width: 480px) {
 		font-size: 16px;
 	}
+}
+
+.product-name {
+	font-size: 14px;
+}
+
+.product-description {
+	font-size: 14px;
+	color: #c9c9c9;
 }
