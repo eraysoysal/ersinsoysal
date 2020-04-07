@@ -1,0 +1,31 @@
+.product-image {
+	width: 400px;
+
+	@media (max-width: 480px) {
+		width: 100%;
+		margin-bottom: 25px;
+	}
+}
+
+.text-address {
+	color: #fff;
+	margin-bottom: 10px !important;
+}
+
+.page-section {
+	@media (max-width: 480px) {
+		padding: 35px 0;
+	}
+}
+
+.page-section h2.section-heading {
+	@media (max-width: 480px) {
+		font-size: 24px;
+	}
+}
+
+.timeline .timeline-heading h4.subheading {
+	@media (max-width: 480px) {
+		font-size: 16px;
+	}
+}

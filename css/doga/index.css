@@ -1,0 +1,39 @@
+/*!
+ * Start Bootstrap - Agency v5.2.2 (https://startbootstrap.com/template-overviews/agency)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-agency/blob/master/LICENSE)
+ */
+
+.product-image {
+  width: 400px;
+}
+
+@media (max-width: 480px) {
+  .product-image {
+    width: 100%;
+    margin-bottom: 25px;
+  }
+}
+
+.text-address {
+  color: #fff;
+  margin-bottom: 10px !important;
+}
+
+@media (max-width: 480px) {
+  .page-section {
+    padding: 35px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .page-section h2.section-heading {
+    font-size: 24px;
+  }
+}
+
+@media (max-width: 480px) {
+  .timeline .timeline-heading h4.subheading {
+    font-size: 16px;
+  }
+}
